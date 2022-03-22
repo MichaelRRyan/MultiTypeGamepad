@@ -1,4 +1,4 @@
-# MutiTypeGamepad
+# MultiTypeGamepad
 A class for easier use of SFML Joystick events, with automatic controller type detection and button mapping.
 
 ## Setup
